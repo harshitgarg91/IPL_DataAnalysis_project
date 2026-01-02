@@ -26,5 +26,5 @@ Matplotlib – data visualization
 
 Seaborn – statistical plots
 
-Jupyter Notebook
+Jupyter 
 
